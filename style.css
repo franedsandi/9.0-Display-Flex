@@ -11,3 +11,8 @@ li {
   background-color: gold;
 }
 /* excercise */
+.d-flex{
+  display: flex;
+  gap:20px;
+  font-weight: bold;
+}
